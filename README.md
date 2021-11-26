@@ -1,2 +1,2 @@
 # Deeplearning
-Notes on Deep learning by Ian Goodfellow
+Notes on Deep learning by Ian Goodfellow. 
